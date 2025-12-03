@@ -1,0 +1,2398 @@
+{
+  "Mohamed": {
+    "total_tests": 11,
+    "total_correct": 24,
+    "total_trials": 110,
+    "total_time": 83.26942038536072,
+    "avg_accuracy": 21.818181818181817,
+    "avg_response_time": 0.7569947307760065,
+    "best_accuracy": 80.0,
+    "recent_tests": [
+      {
+        "date": "2025-11-30 20:29",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Easy",
+        "accuracy": 0.0,
+        "avg_time": 2.9965327739715577,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:54",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "accuracy": 30.0,
+        "avg_time": 0.2729953289031982,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:55",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "accuracy": 30.0,
+        "avg_time": 0.2504190683364868,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:55",
+        "test_type": "Reverse Stroop (Color vs Word)",
+        "difficulty": "Easy",
+        "accuracy": 30.0,
+        "avg_time": 0.3980193853378296,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:55",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Easy",
+        "accuracy": 10.0,
+        "avg_time": 0.674210786819458,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:55",
+        "test_type": "Emotional Stroop (Words with Emotional Content)",
+        "difficulty": "Easy",
+        "accuracy": 20.0,
+        "avg_time": 0.462526798248291,
+        "trials": 10
+      },
+      {
+        "date": "2025-12-03 16:56",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "accuracy": 0.0,
+        "avg_time": 0.9236937761306763,
+        "trials": 10
+      },
+      {
+        "date": "2025-12-03 16:57",
+        "test_type": "Reverse Stroop (Color vs Word)",
+        "difficulty": "Easy",
+        "accuracy": 30.0,
+        "avg_time": 0.5219717264175415,
+        "trials": 10
+      },
+      {
+        "date": "2025-12-03 16:57",
+        "test_type": "Emotional Stroop (Words with Emotional Content)",
+        "difficulty": "Easy",
+        "accuracy": 0.0,
+        "avg_time": 0.3177868604660034,
+        "trials": 10
+      },
+      {
+        "date": "2025-12-03 16:57",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Easy",
+        "accuracy": 10.0,
+        "avg_time": 0.49133002758026123,
+        "trials": 10
+      }
+    ],
+    "all_tests": [
+      {
+        "user": "Mohamed",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Medium",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:17:51.883453",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530271.9088438,
+            "response_time": 2.5035815238952637,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 2500,
+            "start_time": 1764530274.4155273,
+            "response_time": 0.05588698387145996,
+            "user_answer": "ORANGE",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530274.4723935,
+            "response_time": 0.7923638820648193,
+            "user_answer": "ORANGE",
+            "correct": true
+          },
+          {
+            "trial_num": 4,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 2500,
+            "start_time": 1764530275.2664258,
+            "response_time": 1.0405004024505615,
+            "user_answer": "BLUE",
+            "correct": true
+          },
+          {
+            "trial_num": 5,
+            "word": "",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530276.3079433,
+            "response_time": 0.9814114570617676,
+            "user_answer": "ORANGE",
+            "correct": true
+          },
+          {
+            "trial_num": 6,
+            "word": "",
+            "color": "PURPLE",
+            "time_limit": 2500,
+            "start_time": 1764530277.2904627,
+            "response_time": 1.2440907955169678,
+            "user_answer": "PURPLE",
+            "correct": true
+          },
+          {
+            "trial_num": 7,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 2500,
+            "start_time": 1764530278.5356858,
+            "response_time": 0.809760570526123,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 8,
+            "word": "",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530279.3465803,
+            "response_time": 0.9824197292327881,
+            "user_answer": "ORANGE",
+            "correct": true
+          },
+          {
+            "trial_num": 9,
+            "word": "",
+            "color": "PURPLE",
+            "time_limit": 2500,
+            "start_time": 1764530280.3301382,
+            "response_time": 0.7467305660247803,
+            "user_answer": "PURPLE",
+            "correct": true
+          },
+          {
+            "trial_num": 10,
+            "word": "",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530281.0772874,
+            "response_time": 1.0178091526031494,
+            "user_answer": "ORANGE",
+            "correct": true
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 8,
+        "total_time": 10.17455506324768,
+        "end_time": "2025-11-30T20:18:02.095109"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:29:13.427054",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764530953.4672477,
+            "response_time": 2.986710786819458,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764530956.4578273,
+            "response_time": 2.996837615966797,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764530959.4585388,
+            "response_time": 2.9938924312591553,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764530962.456288,
+            "response_time": 3.006514072418213,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764530965.4666789,
+            "response_time": 2.9903056621551514,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764530968.4610121,
+            "response_time": 3.0025978088378906,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764530971.4674926,
+            "response_time": 2.9977617263793945,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764530974.467105,
+            "response_time": 2.9910757541656494,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764530977.4599137,
+            "response_time": 2.9969911575317383,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764530980.4594147,
+            "response_time": 3.002640724182129,
+            "user_answer": null,
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 0,
+        "total_time": 29.965327739715576,
+        "end_time": "2025-11-30T20:29:43.462085"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:54:50.561529",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "BLUE",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532490.6390433,
+            "response_time": 1.0367555618286133,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 2,
+            "word": "GREEN",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532491.6772811,
+            "response_time": 0.20419549942016602,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "YELLOW",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532491.8827677,
+            "response_time": 0.17339491844177246,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 4,
+            "word": "GREEN",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532492.0574474,
+            "response_time": 0.1806333065032959,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "RED",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532492.2393746,
+            "response_time": 0.1842496395111084,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "YELLOW",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532492.4249504,
+            "response_time": 0.19687199592590332,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "GREEN",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532492.6230888,
+            "response_time": 0.1726081371307373,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "YELLOW",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532492.797152,
+            "response_time": 0.18483543395996094,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 9,
+            "word": "BLUE",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532492.9833386,
+            "response_time": 0.2141561508178711,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "GREEN",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532493.1981664,
+            "response_time": 0.1822526454925537,
+            "user_answer": "GREEN",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 3,
+        "total_time": 2.7299532890319824,
+        "end_time": "2025-11-30T20:54:53.380429"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:54:57.749873",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "YELLOW",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532497.821763,
+            "response_time": 0.7466151714324951,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "YELLOW",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532498.5688806,
+            "response_time": 0.19472169876098633,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "RED",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532498.7642746,
+            "response_time": 0.1821763515472412,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 4,
+            "word": "RED",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532498.9470754,
+            "response_time": 0.18079757690429688,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 5,
+            "word": "GREEN",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532499.1285236,
+            "response_time": 0.1996934413909912,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "GREEN",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532499.3288617,
+            "response_time": 0.1915140151977539,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "GREEN",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532499.5208986,
+            "response_time": 0.18696117401123047,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "BLUE",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532499.7085164,
+            "response_time": 0.21287178993225098,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 9,
+            "word": "GREEN",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532499.9220543,
+            "response_time": 0.2074894905090332,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "BLUE",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532500.1302547,
+            "response_time": 0.20134997367858887,
+            "user_answer": "GREEN",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 3,
+        "total_time": 2.504190683364868,
+        "end_time": "2025-11-30T20:55:00.331616"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Reverse Stroop (Color vs Word)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:55:06.144264",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532506.231445,
+            "response_time": 1.3065824508666992,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 2,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532507.5386794,
+            "response_time": 0.3129303455352783,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 3,
+            "word": "GREEN",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532507.8522437,
+            "response_time": 0.4631204605102539,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "RED",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532508.316262,
+            "response_time": 0.23011350631713867,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532508.546834,
+            "response_time": 0.21085119247436523,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "GREEN",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532508.7583346,
+            "response_time": 0.1940932273864746,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532508.95312,
+            "response_time": 0.19043397903442383,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "RED",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532509.1442163,
+            "response_time": 0.20383334159851074,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "RED",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532509.348709,
+            "response_time": 0.20052695274353027,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532509.5498924,
+            "response_time": 0.6677083969116211,
+            "user_answer": "YELLOW",
+            "correct": true
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 3,
+        "total_time": 3.980193853378296,
+        "end_time": "2025-11-30T20:55:10.217610"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:55:17.754551",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532517.8431268,
+            "response_time": 1.1223773956298828,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532518.966154,
+            "response_time": 2.992171287536621,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532521.959298,
+            "response_time": 1.2132220268249512,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532523.173454,
+            "response_time": 0.1918776035308838,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532523.3660102,
+            "response_time": 0.19163203239440918,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532523.5580204,
+            "response_time": 0.20121121406555176,
+            "user_answer": "RED",
+            "correct": true
+          },
+          {
+            "trial_num": 7,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532523.759883,
+            "response_time": 0.19780564308166504,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532523.9583433,
+            "response_time": 0.2054729461669922,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532524.1644704,
+            "response_time": 0.21563243865966797,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532524.3807716,
+            "response_time": 0.21070528030395508,
+            "user_answer": "RED",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 1,
+        "total_time": 6.74210786819458,
+        "end_time": "2025-11-30T20:55:24.591486"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Emotional Stroop (Words with Emotional Content)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:55:30.431793",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532530.5633538,
+            "response_time": 1.3080663681030273,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 2,
+            "word": "GREEN",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532531.8720865,
+            "response_time": 0.3976097106933594,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "JOY",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532532.2703767,
+            "response_time": 0.41273021697998047,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "ANGRY",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532532.6836073,
+            "response_time": 0.6035130023956299,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "STRESS",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532533.2878127,
+            "response_time": 0.4413132667541504,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "BLUE",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532533.7298448,
+            "response_time": 0.6409702301025391,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 7,
+            "word": "YELLOW",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532534.371518,
+            "response_time": 0.17065763473510742,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532534.5428839,
+            "response_time": 0.22861886024475098,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "HATE",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532534.7722173,
+            "response_time": 0.20696687698364258,
+            "user_answer": "HATE",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "CALM",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532534.9799438,
+            "response_time": 0.21482181549072266,
+            "user_answer": "HATE",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 2,
+        "total_time": 4.62526798248291,
+        "end_time": "2025-11-30T20:55:35.194788"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-12-03T16:56:42.723311",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "GREEN",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764777402.7796817,
+            "response_time": 1.9665358066558838,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "BLUE",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777404.7471633,
+            "response_time": 0.9663045406341553,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "RED",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764777405.7143967,
+            "response_time": 0.9920821189880371,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "RED",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764777406.7074344,
+            "response_time": 0.7245526313781738,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "RED",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764777407.434002,
+            "response_time": 0.4190704822540283,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "GREEN",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764777407.8540895,
+            "response_time": 0.9825091361999512,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "GREEN",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777408.8376088,
+            "response_time": 0.7509996891021729,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "RED",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777409.589656,
+            "response_time": 1.115013837814331,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "BLUE",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777410.706087,
+            "response_time": 0.8907296657562256,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "BLUE",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777411.5973804,
+            "response_time": 0.4291398525238037,
+            "user_answer": "BLUE",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 0,
+        "total_time": 9.236937761306763,
+        "end_time": "2025-12-03T16:56:52.026532"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Reverse Stroop (Color vs Word)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-12-03T16:57:02.891018",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777422.9351504,
+            "response_time": 1.4745683670043945,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 2,
+            "word": "GREEN",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764777424.410364,
+            "response_time": 0.8959531784057617,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 3,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777425.3067257,
+            "response_time": 1.1131815910339355,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "GREEN",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764777426.4203086,
+            "response_time": 0.5695338249206543,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777426.9902458,
+            "response_time": 0.2666587829589844,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777427.2575703,
+            "response_time": 0.17040181159973145,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777427.4283793,
+            "response_time": 0.17578530311584473,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777427.604744,
+            "response_time": 0.17655277252197266,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764777427.7818675,
+            "response_time": 0.16843366622924805,
+            "user_answer": "BLUE",
+            "correct": true
+          },
+          {
+            "trial_num": 10,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777427.9507499,
+            "response_time": 0.2086479663848877,
+            "user_answer": "BLUE",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 3,
+        "total_time": 5.219717264175415,
+        "end_time": "2025-12-03T16:57:08.159409"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Emotional Stroop (Words with Emotional Content)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-12-03T16:57:16.027115",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "SAD",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764777436.0995445,
+            "response_time": 0.8729321956634521,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "STRESS",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764777436.9729664,
+            "response_time": 0.31868743896484375,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "GREEN",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764777437.2922337,
+            "response_time": 0.25780558586120605,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "SAD",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777437.5507357,
+            "response_time": 0.2621021270751953,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "FEAR",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777437.8135357,
+            "response_time": 0.19766640663146973,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "CALM",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764777438.011623,
+            "response_time": 0.18528461456298828,
+            "user_answer": "HATE",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "SAD",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777438.1976366,
+            "response_time": 0.20476174354553223,
+            "user_answer": "HATE",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "ANGRY",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764777438.4028566,
+            "response_time": 0.3462836742401123,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "ANGRY",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764777438.7498794,
+            "response_time": 0.33019447326660156,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "RED",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764777439.0805423,
+            "response_time": 0.2021503448486328,
+            "user_answer": "YELLOW",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 0,
+        "total_time": 3.177868604660034,
+        "end_time": "2025-12-03T16:57:19.282701"
+      },
+      {
+        "user": "Mohamed",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-12-03T16:57:26.200416",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764777446.2404892,
+            "response_time": 2.238833427429199,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764777448.4799712,
+            "response_time": 0.5333194732666016,
+            "user_answer": "BLUE",
+            "correct": true
+          },
+          {
+            "trial_num": 3,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764777449.0137243,
+            "response_time": 0.372633695602417,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764777449.3871524,
+            "response_time": 0.5435009002685547,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764777449.9312017,
+            "response_time": 0.22581863403320312,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764777450.1577647,
+            "response_time": 0.2199389934539795,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764777450.378449,
+            "response_time": 0.20335984230041504,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764777450.5823433,
+            "response_time": 0.19440674781799316,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764777450.7775602,
+            "response_time": 0.1873021125793457,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764777450.9656065,
+            "response_time": 0.19418644905090332,
+            "user_answer": "BLUE",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 1,
+        "total_time": 4.913300275802612,
+        "end_time": "2025-12-03T16:57:31.159802"
+      }
+    ]
+  },
+  "Ahmed": {
+    "total_tests": 7,
+    "total_correct": 29,
+    "total_trials": 90,
+    "total_time": 125.52894902229309,
+    "avg_accuracy": 32.22222222222222,
+    "avg_response_time": 1.394766100247701,
+    "best_accuracy": 93.33333333333333,
+    "recent_tests": [
+      {
+        "date": "2025-11-30 20:22",
+        "test_type": "Reverse Stroop (Color vs Word)",
+        "difficulty": "Medium",
+        "accuracy": 93.33333333333333,
+        "avg_time": 1.3418302377065023,
+        "trials": 30
+      },
+      {
+        "date": "2025-11-30 20:28",
+        "test_type": "Emotional Stroop (Words with Emotional Content)",
+        "difficulty": "Easy",
+        "accuracy": 0.0,
+        "avg_time": 2.009083080291748,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:45",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "accuracy": 0.0,
+        "avg_time": 1.012126588821411,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:46",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Hard",
+        "accuracy": 0.0,
+        "avg_time": 1.9981023073196411,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:50",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "accuracy": 0.0,
+        "avg_time": 0.34111177921295166,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:50",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Hard",
+        "accuracy": 0.0,
+        "avg_time": 1.9996256351470947,
+        "trials": 10
+      },
+      {
+        "date": "2025-11-30 20:51",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Easy",
+        "accuracy": 10.0,
+        "avg_time": 1.1673547983169557,
+        "trials": 10
+      }
+    ],
+    "all_tests": [
+      {
+        "user": "Ahmed",
+        "test_type": "Reverse Stroop (Color vs Word)",
+        "difficulty": "Medium",
+        "num_trials": 30,
+        "start_time": "2025-11-30T20:21:45.043814",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 2500,
+            "start_time": 1764530505.1510973,
+            "response_time": 2.493333578109741,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "ORANGE",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530507.6490538,
+            "response_time": 2.4231274127960205,
+            "user_answer": "ORANGE",
+            "correct": true
+          },
+          {
+            "trial_num": 3,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 2500,
+            "start_time": 1764530510.0741222,
+            "response_time": 1.8121416568756104,
+            "user_answer": "BLUE",
+            "correct": true
+          },
+          {
+            "trial_num": 4,
+            "word": "PURPLE",
+            "color": "PURPLE",
+            "time_limit": 2500,
+            "start_time": 1764530511.886914,
+            "response_time": 1.769463300704956,
+            "user_answer": "PURPLE",
+            "correct": true
+          },
+          {
+            "trial_num": 5,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 2500,
+            "start_time": 1764530513.6570735,
+            "response_time": 1.2691397666931152,
+            "user_answer": "BLUE",
+            "correct": true
+          },
+          {
+            "trial_num": 6,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530514.9275303,
+            "response_time": 0.9752047061920166,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 7,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530515.9033966,
+            "response_time": 0.9321990013122559,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 8,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530516.8362067,
+            "response_time": 0.5082173347473145,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 9,
+            "word": "ORANGE",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530517.3450613,
+            "response_time": 1.3398616313934326,
+            "user_answer": "ORANGE",
+            "correct": true
+          },
+          {
+            "trial_num": 10,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530518.6855602,
+            "response_time": 1.776902198791504,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 11,
+            "word": "ORANGE",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530520.4631,
+            "response_time": 1.1266562938690186,
+            "user_answer": "ORANGE",
+            "correct": true
+          },
+          {
+            "trial_num": 12,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 2500,
+            "start_time": 1764530521.5910182,
+            "response_time": 1.4506237506866455,
+            "user_answer": "BLUE",
+            "correct": true
+          },
+          {
+            "trial_num": 13,
+            "word": "PURPLE",
+            "color": "PURPLE",
+            "time_limit": 2500,
+            "start_time": 1764530523.0422943,
+            "response_time": 1.1000277996063232,
+            "user_answer": "PURPLE",
+            "correct": true
+          },
+          {
+            "trial_num": 14,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530524.1429718,
+            "response_time": 1.6121437549591064,
+            "user_answer": "ORANGE",
+            "correct": false
+          },
+          {
+            "trial_num": 15,
+            "word": "ORANGE",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530525.7564185,
+            "response_time": 1.2674522399902344,
+            "user_answer": "ORANGE",
+            "correct": true
+          },
+          {
+            "trial_num": 16,
+            "word": "GREEN",
+            "color": "GREEN",
+            "time_limit": 2500,
+            "start_time": 1764530527.024526,
+            "response_time": 1.955305814743042,
+            "user_answer": "GREEN",
+            "correct": true
+          },
+          {
+            "trial_num": 17,
+            "word": "ORANGE",
+            "color": "ORANGE",
+            "time_limit": 2500,
+            "start_time": 1764530528.9805079,
+            "response_time": 1.696850299835205,
+            "user_answer": "ORANGE",
+            "correct": true
+          },
+          {
+            "trial_num": 18,
+            "word": "PURPLE",
+            "color": "PURPLE",
+            "time_limit": 2500,
+            "start_time": 1764530530.6780047,
+            "response_time": 1.2422938346862793,
+            "user_answer": "PURPLE",
+            "correct": true
+          },
+          {
+            "trial_num": 19,
+            "word": "PURPLE",
+            "color": "PURPLE",
+            "time_limit": 2500,
+            "start_time": 1764530531.9209485,
+            "response_time": 0.6115391254425049,
+            "user_answer": "PURPLE",
+            "correct": true
+          },
+          {
+            "trial_num": 20,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530532.5331411,
+            "response_time": 1.5272176265716553,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 21,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530534.0616403,
+            "response_time": 0.6849644184112549,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 22,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530534.7472544,
+            "response_time": 0.4332692623138428,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 23,
+            "word": "BLUE",
+            "color": "BLUE",
+            "time_limit": 2500,
+            "start_time": 1764530535.1811905,
+            "response_time": 1.3281214237213135,
+            "user_answer": "BLUE",
+            "correct": true
+          },
+          {
+            "trial_num": 24,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530536.5106556,
+            "response_time": 1.8495678901672363,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 25,
+            "word": "RED",
+            "color": "RED",
+            "time_limit": 2500,
+            "start_time": 1764530538.3608887,
+            "response_time": 1.2275364398956299,
+            "user_answer": "RED",
+            "correct": true
+          },
+          {
+            "trial_num": 26,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530539.5891619,
+            "response_time": 1.2115695476531982,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 27,
+            "word": "PURPLE",
+            "color": "PURPLE",
+            "time_limit": 2500,
+            "start_time": 1764530540.802066,
+            "response_time": 1.4276235103607178,
+            "user_answer": "PURPLE",
+            "correct": true
+          },
+          {
+            "trial_num": 28,
+            "word": "YELLOW",
+            "color": "YELLOW",
+            "time_limit": 2500,
+            "start_time": 1764530542.2303622,
+            "response_time": 1.0746235847473145,
+            "user_answer": "YELLOW",
+            "correct": true
+          },
+          {
+            "trial_num": 29,
+            "word": "RED",
+            "color": "RED",
+            "time_limit": 2500,
+            "start_time": 1764530543.3056502,
+            "response_time": 1.4666566848754883,
+            "user_answer": "RED",
+            "correct": true
+          },
+          {
+            "trial_num": 30,
+            "word": "RED",
+            "color": "RED",
+            "time_limit": 2500,
+            "start_time": 1764530544.7729883,
+            "response_time": 0.6612732410430908,
+            "user_answer": "RED",
+            "correct": true
+          }
+        ],
+        "current_trial": 30,
+        "correct_answers": 28,
+        "total_time": 40.25490713119507,
+        "end_time": "2025-11-30T20:22:25.434273"
+      },
+      {
+        "user": "Ahmed",
+        "test_type": "Emotional Stroop (Words with Emotional Content)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:28:24.100924",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "JOY",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764530904.2231395,
+            "response_time": 2.9971084594726562,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "JOY",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764530907.2241204,
+            "response_time": 0.744849681854248,
+            "user_answer": "JOY",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "SAD",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764530907.9704137,
+            "response_time": 2.99880051612854,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "SAD",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764530910.9731455,
+            "response_time": 3.0171780586242676,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "RED",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764530913.9916646,
+            "response_time": 0.15321135520935059,
+            "user_answer": "HATE",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "ANGRY",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764530914.1463323,
+            "response_time": 3.0003671646118164,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "JOY",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764530917.1516166,
+            "response_time": 2.617823839187622,
+            "user_answer": "HATE",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "JOY",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764530919.7708428,
+            "response_time": 1.378255844116211,
+            "user_answer": "LOVE",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "CALM",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764530921.1505868,
+            "response_time": 2.3197410106658936,
+            "user_answer": "JOY",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "CALM",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764530923.4710574,
+            "response_time": 0.863494873046875,
+            "user_answer": "JOY",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 0,
+        "total_time": 20.09083080291748,
+        "end_time": "2025-11-30T20:28:44.334563"
+      },
+      {
+        "user": "Ahmed",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:45:44.389708",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "GREEN",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764531944.4737315,
+            "response_time": 1.4784636497497559,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "GREEN",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764531945.9543319,
+            "response_time": 0.6917312145233154,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "YELLOW",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764531946.6475248,
+            "response_time": 1.0533528327941895,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "BLUE",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764531947.7029133,
+            "response_time": 0.8400061130523682,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "YELLOW",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764531948.5444171,
+            "response_time": 1.1229283809661865,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "YELLOW",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764531949.6688313,
+            "response_time": 1.1332104206085205,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "BLUE",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764531950.8035028,
+            "response_time": 1.1053123474121094,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "YELLOW",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764531951.910364,
+            "response_time": 0.9373724460601807,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "YELLOW",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764531952.849292,
+            "response_time": 0.8675603866577148,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "BLUE",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764531953.7177203,
+            "response_time": 0.8913280963897705,
+            "user_answer": "BLUE",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 0,
+        "total_time": 10.121265888214111,
+        "end_time": "2025-11-30T20:45:54.609060"
+      },
+      {
+        "user": "Ahmed",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Hard",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:46:17.550662",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "RED",
+            "color": "BLUE",
+            "time_limit": 2000,
+            "start_time": 1764531977.6032443,
+            "response_time": 2.005131721496582,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "BLUE",
+            "color": "BROWN",
+            "time_limit": 2000,
+            "start_time": 1764531979.612604,
+            "response_time": 1.9970953464508057,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "GREEN",
+            "color": "PURPLE",
+            "time_limit": 2000,
+            "start_time": 1764531981.6116245,
+            "response_time": 1.9980390071868896,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "YELLOW",
+            "color": "BLUE",
+            "time_limit": 2000,
+            "start_time": 1764531983.6140869,
+            "response_time": 1.9985251426696777,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "RED",
+            "color": "ORANGE",
+            "time_limit": 2000,
+            "start_time": 1764531985.6169062,
+            "response_time": 2.0039398670196533,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "PURPLE",
+            "color": "ORANGE",
+            "time_limit": 2000,
+            "start_time": 1764531987.6251454,
+            "response_time": 1.9944038391113281,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "ORANGE",
+            "color": "BLUE",
+            "time_limit": 2000,
+            "start_time": 1764531989.6224527,
+            "response_time": 1.9947772026062012,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "GREEN",
+            "color": "BROWN",
+            "time_limit": 2000,
+            "start_time": 1764531991.6218076,
+            "response_time": 1.993037462234497,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "ORANGE",
+            "color": "BROWN",
+            "time_limit": 2000,
+            "start_time": 1764531993.6193943,
+            "response_time": 1.9981954097747803,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "RED",
+            "color": "BLUE",
+            "time_limit": 2000,
+            "start_time": 1764531995.620298,
+            "response_time": 1.997878074645996,
+            "user_answer": null,
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 0,
+        "total_time": 19.98102307319641,
+        "end_time": "2025-11-30T20:46:37.618202"
+      },
+      {
+        "user": "Ahmed",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:50:06.097534",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "BLUE",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532206.1684735,
+            "response_time": 1.713862419128418,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "RED",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532207.8836684,
+            "response_time": 0.1652219295501709,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "RED",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532208.050164,
+            "response_time": 0.19565701484680176,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "GREEN",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532208.2471132,
+            "response_time": 0.17880940437316895,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "YELLOW",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532208.427186,
+            "response_time": 0.179840087890625,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "GREEN",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532208.6083324,
+            "response_time": 0.1916196346282959,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "RED",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532208.801263,
+            "response_time": 0.1809673309326172,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "YELLOW",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532208.983612,
+            "response_time": 0.19048285484313965,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "YELLOW",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532209.1753852,
+            "response_time": 0.19268155097961426,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "YELLOW",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532209.3687584,
+            "response_time": 0.22197556495666504,
+            "user_answer": "RED",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 0,
+        "total_time": 3.4111177921295166,
+        "end_time": "2025-11-30T20:50:09.590744"
+      },
+      {
+        "user": "Ahmed",
+        "test_type": "Classic Stroop (Word vs Color)",
+        "difficulty": "Hard",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:50:19.802639",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "PINK",
+            "color": "ORANGE",
+            "time_limit": 2000,
+            "start_time": 1764532219.8522139,
+            "response_time": 2.009068250656128,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "BLUE",
+            "color": "BROWN",
+            "time_limit": 2000,
+            "start_time": 1764532221.8635063,
+            "response_time": 2.0090696811676025,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 3,
+            "word": "BROWN",
+            "color": "PURPLE",
+            "time_limit": 2000,
+            "start_time": 1764532223.873304,
+            "response_time": 1.9969966411590576,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "YELLOW",
+            "color": "PINK",
+            "time_limit": 2000,
+            "start_time": 1764532225.8723888,
+            "response_time": 1.9914686679840088,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "GREEN",
+            "color": "ORANGE",
+            "time_limit": 2000,
+            "start_time": 1764532227.86593,
+            "response_time": 2.005871057510376,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "BROWN",
+            "color": "ORANGE",
+            "time_limit": 2000,
+            "start_time": 1764532229.8740726,
+            "response_time": 1.991027593612671,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "GREEN",
+            "color": "YELLOW",
+            "time_limit": 2000,
+            "start_time": 1764532231.8677893,
+            "response_time": 1.9990417957305908,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "GREEN",
+            "color": "ORANGE",
+            "time_limit": 2000,
+            "start_time": 1764532233.8691359,
+            "response_time": 1.998450517654419,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "BROWN",
+            "color": "RED",
+            "time_limit": 2000,
+            "start_time": 1764532235.869918,
+            "response_time": 2.001027822494507,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "PURPLE",
+            "color": "YELLOW",
+            "time_limit": 2000,
+            "start_time": 1764532237.8719203,
+            "response_time": 1.994234323501587,
+            "user_answer": null,
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 0,
+        "total_time": 19.996256351470947,
+        "end_time": "2025-11-30T20:50:39.866177"
+      },
+      {
+        "user": "Ahmed",
+        "test_type": "Neutral (Color Only)",
+        "difficulty": "Easy",
+        "num_trials": 10,
+        "start_time": "2025-11-30T20:50:54.872923",
+        "trials": [
+          {
+            "trial_num": 1,
+            "word": "",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532254.946563,
+            "response_time": 2.9994139671325684,
+            "user_answer": null,
+            "correct": false
+          },
+          {
+            "trial_num": 2,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532257.9497232,
+            "response_time": 1.6072428226470947,
+            "user_answer": "BLUE",
+            "correct": true
+          },
+          {
+            "trial_num": 3,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532259.5583336,
+            "response_time": 1.0240967273712158,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 4,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532260.5837033,
+            "response_time": 0.6598107814788818,
+            "user_answer": "RED",
+            "correct": false
+          },
+          {
+            "trial_num": 5,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532261.2448611,
+            "response_time": 0.8551514148712158,
+            "user_answer": "GREEN",
+            "correct": false
+          },
+          {
+            "trial_num": 6,
+            "word": "",
+            "color": "BLUE",
+            "time_limit": 3000,
+            "start_time": 1764532262.101319,
+            "response_time": 0.6627805233001709,
+            "user_answer": "YELLOW",
+            "correct": false
+          },
+          {
+            "trial_num": 7,
+            "word": "",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532262.7653902,
+            "response_time": 2.743429183959961,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 8,
+            "word": "",
+            "color": "RED",
+            "time_limit": 3000,
+            "start_time": 1764532265.5101662,
+            "response_time": 0.4813880920410156,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 9,
+            "word": "",
+            "color": "YELLOW",
+            "time_limit": 3000,
+            "start_time": 1764532265.9928963,
+            "response_time": 0.24361252784729004,
+            "user_answer": "BLUE",
+            "correct": false
+          },
+          {
+            "trial_num": 10,
+            "word": "",
+            "color": "GREEN",
+            "time_limit": 3000,
+            "start_time": 1764532266.237185,
+            "response_time": 0.3966219425201416,
+            "user_answer": "BLUE",
+            "correct": false
+          }
+        ],
+        "current_trial": 10,
+        "correct_answers": 1,
+        "total_time": 11.673547983169556,
+        "end_time": "2025-11-30T20:51:06.633818"
+      }
+    ]
+  }
+}
