@@ -1,4 +1,5 @@
 # Stroop Test Application Portfolio
+<img width="897" height="742" alt="image" src="https://github.com/user-attachments/assets/8eac4b61-48b4-43e7-9d0f-86e4e53fd786" />
 
 ## Quick Start Guide
 
